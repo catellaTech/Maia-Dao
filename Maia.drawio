@@ -1,14 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2023-09-25T22:26:06.175Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="YQMW3eSu5Ok1ftLH7Y2U" version="21.8.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-25T22:31:45.749Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="RcwXFSa2vCbgbBqqEhE2" version="21.8.2" type="github">
   <diagram name="Página-1" id="E-QWh-BqtW5g9JhBuva9">
-    <mxGraphModel dx="2812" dy="1085" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4003" dy="1736" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="nNT3iWc_eE8hrZQ5aYZv-1" value="&lt;div style=&quot;font-size: 45px;&quot;&gt;Ulysses Protocol Diagram&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=#FFC012;fillColor=#FF0080;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;gradientColor=#FFE599;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="94" y="640" width="546" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="nNT3iWc_eE8hrZQ5aYZv-4" value="&lt;img alt=&quot;Support - Free computer icons&quot; src=&quot;https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4XGp03Iu4robymNyETolsGYEMNJblqOQlH9g1lNMhDgqRg-V96MaMMnqrylzVJul2swc&amp;amp;usqp=CAU&quot;&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=Helvetica;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="360" y="1270" width="232" height="230" as="geometry" />
         </mxCell>
         <mxCell id="nNT3iWc_eE8hrZQ5aYZv-7" value="&lt;img alt=&quot;Maia DAO&quot; src=&quot;https://code4rena.com/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Fcdn-c4-uploads-v0%2Fuploads%2FwE7RLxfWDRg.0&amp;amp;w=256&amp;amp;q=75&quot;&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=Helvetica;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="251" y="740" width="232" height="230" as="geometry" />
@@ -120,6 +117,24 @@
             <mxPoint x="834" y="740" as="sourcePoint" />
             <mxPoint x="530" y="885" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="nNT3iWc_eE8hrZQ5aYZv-43" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-816" y="320" as="sourcePoint" />
+            <mxPoint x="1644" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nNT3iWc_eE8hrZQ5aYZv-44" value="" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="nNT3iWc_eE8hrZQ5aYZv-43">
+          <mxGeometry x="1" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nNT3iWc_eE8hrZQ5aYZv-45" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-816" y="1030" as="sourcePoint" />
+            <mxPoint x="1644" y="1030" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nNT3iWc_eE8hrZQ5aYZv-46" value="" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="nNT3iWc_eE8hrZQ5aYZv-45">
+          <mxGeometry x="1" relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
